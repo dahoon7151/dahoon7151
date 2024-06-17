@@ -28,6 +28,8 @@
           <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
           <br/><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
@@ -42,6 +44,8 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
+          <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=for-the-badge&logo=Amazon Route 53&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
