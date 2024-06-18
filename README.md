@@ -1,4 +1,6 @@
 <div style="text-align: left;"> 
+    <div> - 홍익대학교 기계시스템디자인공학과 (주전공)</div>
+    <div> - 홍익대학교 컴퓨터공학과 (복수전공)</div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새싹 백엔드 개발자 강다훈입니다!!! </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 커뮤니케이션을 잘하고 좋아하는 신입 백엔드 개발자입니다</li>🔥🔥🔥</div>
     <div> 끊임없이 공부하고 소통하며 알고 있는 기술은 연습하고 새로운 기술은 배우고 적용하며 개발하고 있습니다!!! </div> 
