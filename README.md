@@ -87,7 +87,8 @@
           </div>
     </div>
     <div style="text-align: left;">
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dahoon7151)](https://solved.ac/dahoon7151)
+        [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dahoon7151)](https://solved.ac/dahoon7151)
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
