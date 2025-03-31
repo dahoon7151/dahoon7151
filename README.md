@@ -6,7 +6,7 @@
     </p>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 커뮤니케이션을 잘하고 좋아하는 신입 백엔드 개발자입니다</li>🔥🔥🔥</div>
     <div> 끊임없이 공부하고 소통하며 알고 있는 기술은 연습하고 새로운 기술은 배우고 적용하며 개발하고 있습니다!!! </div> 
-</div>
+</div> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Skilled 😎) </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -22,10 +22,12 @@
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
             <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+        </p>
+        <p>
             <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
         </p>
     </div>
-</div>
+</div> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Experienced 😆) </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -35,7 +37,7 @@
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
         </p>
     </div>
-</div>
+</div> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Learning.. 🤓) </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -46,15 +48,14 @@
             <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
         </p>
     </div>
-</div>
+</div> <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> 
         <a href=https://www.notion.so/abf73ab16cd54939a104ffa71250002f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/abf73ab16cd54939a104ffa71250002f"> </a>
         <a href=mailto:dahoon7151@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dahoon7151@gmail.com"> </a>
-    </div>  <br> 
-</div>
-
+    </div>
+</div> <br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dahoon7151)](https://solved.ac/dahoon7151)
