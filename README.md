@@ -52,8 +52,12 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> 
-        <a href=https://www.notion.so/abf73ab16cd54939a104ffa71250002f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/abf73ab16cd54939a104ffa71250002f"> </a>
-        <a href=mailto:dahoon7151@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dahoon7151@gmail.com"> </a>
+        <a href=https://infrequent-target-d01.notion.site/1c7fb23c685280e7be6de2d57e1f9aa6?pvs=4>
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/abf73ab16cd54939a104ffa71250002f">
+        </a>
+        <a href=mailto:dahoon7151@gmail.com>
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dahoon7151@gmail.com">
+        </a>
     </div>
 </div> <br>
 
