@@ -1,10 +1,9 @@
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱새싹 백엔드 개발자 강다훈입니다!!! </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱새싹 백엔드 개발자 강다훈입니다🔥🔥🔥 </h2>
     <p>
         <div> 🏫 홍익대학교 기계시스템디자인공학과 (주전공)</div>
         <div> 🏫 홍익대학교 컴퓨터공학과 (복수전공)</div>
     </p>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 커뮤니케이션을 잘하고 좋아하는 신입 백엔드 개발자입니다</li>🔥🔥 </div>
     <div> 사용성과 성능을 모두 고려한 백엔드 개발에 집중하며, JWT 기반 인증, Redis 캐싱, CI/CD, 모니터링 등 실무에 가까운 기술들을 스스로 익히고 적용해왔습니다. </div>
     <div> 혼자 개발할 때도 항상 팀 프로젝트처럼 설계하고 문서화하며, 나중에 누가 보더라도 이해할 수 있는 구조와 흐름을 지향합니다. </div>
     <div> 문제 해결 과정에서 성취감을 느끼며, 최근에는 메시지 큐나 멀티 인스턴스 환경의 캐시 일관성 유지 등 도전적인 기술에 시도하고 있습니다. </div>
