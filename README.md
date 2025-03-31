@@ -39,22 +39,25 @@
         </p>
     </div>
 </div>
-    <div style="text-align: left;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks (Learning.. 🤓) </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
-          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
-          </div>
+        <p>
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+            <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+            <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+        </p>
     </div>
-    <div style="text-align: left;">
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
-         <a href=https://www.notion.so/abf73ab16cd54939a104ffa71250002f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/abf73ab16cd54939a104ffa71250002f"> </a>
-         <a href=mailto:dahoon7151@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dahoon7151@gmail.com"> </a>
-          </div>  <br> 
+        <a href=https://www.notion.so/abf73ab16cd54939a104ffa71250002f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/abf73ab16cd54939a104ffa71250002f"> </a>
+        <a href=mailto:dahoon7151@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dahoon7151@gmail.com"> </a>
+    </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    </div>
+</div>
+</div>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dahoon7151)](https://solved.ac/dahoon7151)
