@@ -55,8 +55,7 @@
     </div>  <br> 
     <div style="text-align: left;">  </div> 
 </div>
-</div>
-
-[![Solved.ac
+<div>
+    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dahoon7151)](https://solved.ac/dahoon7151)
-    
+</div>
